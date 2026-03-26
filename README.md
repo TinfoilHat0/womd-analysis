@@ -4,11 +4,13 @@ Unsupervised analysis of autonomous driving scenarios from the [Waymo Open Motio
 
 This project was made using the Waymo Open Dataset, provided by Waymo LLC under the [Waymo Dataset License Agreement for Non-Commercial Use](https://waymo.com/open/terms).
 
+```
 @misc{waymo_open_dataset,
   title = {Waymo Open Dataset: An autonomous driving dataset},
   website = {\url{https://www.waymo.com/open}},
   year = {2019-2025}
 }
+```
 
 ## Key Results
 
