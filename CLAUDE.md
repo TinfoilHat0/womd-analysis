@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Research project for driving scenario embedding and rare event detection using the Waymo Open Motion Dataset (WOMD). The goal is to cluster autonomous driving scenarios by hand-crafted features and learned embeddings to identify rare/interesting events — aligned with Zoox's validation pipeline needs.
+Research project for driving scenario embedding and rare event detection using the Waymo Open Motion Dataset (WOMD). The goal is to cluster autonomous driving scenarios by hand-crafted features to identify rare/interesting events, then build retrieval and search systems for efficient rare event discovery.
 
-**Three-phase plan:** (1) Hand-crafted features + clustering (done), (2) Learned trajectory embeddings (in progress), (3) Retrieval and Bayesian search for rare events.
+**Three-phase plan:** (1) Hand-crafted features + clustering (done), (2) Learned trajectory embeddings (explored), (3) Retrieval and Bayesian search for rare events (done).
 
 ## Setup
 

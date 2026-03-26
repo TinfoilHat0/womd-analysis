@@ -20,3 +20,6 @@ waymo-od/
 
 # Proto cache
 waymo_open_dataset/__pycache__/
+.claude/
+job_description.md
+progress.md
