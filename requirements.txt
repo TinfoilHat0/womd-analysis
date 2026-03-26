@@ -1,0 +1,10 @@
+numpy>=1.25
+scipy>=1.10
+scikit-learn>=1.6
+hdbscan>=0.8
+umap-learn>=0.5
+matplotlib>=3.8
+protobuf>=4.0
+pillow>=10.0
+torch>=2.0
+momentfm>=0.1

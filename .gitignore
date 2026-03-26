@@ -1,0 +1,22 @@
+# Data (download separately — Waymo license)
+data/womd_motion/
+data/womd_reasoning/
+data/causal_agents/
+data/features.json
+data/embeddings.npz
+data/bev_renders/
+data/*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+
+# Waymo OD clone (reference only)
+waymo-od/
+
+# Proto cache
+waymo_open_dataset/__pycache__/
